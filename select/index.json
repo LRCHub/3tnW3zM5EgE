@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひとりじゃないのよ",
+  "base_artist": "KREVA",
+  "createdAt": "2026-01-14T03:45:27.109786Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとりじゃないのよ [Album Version]",
+      "artist": "KREVA",
+      "has_synced": false,
+      "path": "select/pl_01_ひとりじゃないのよ_[Album_Version]_KREVA.txt"
+    }
+  ]
+}
